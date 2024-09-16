@@ -1,5 +1,5 @@
 # CountryApp
-Fundamentos de una aplicación SPA (Single Page Application), mediante carga perezosa (lazyload), esta es otra aplicación real que nos enseñara mucho de cómo funciona Angular y como la información fluye en ella.
+Fundamentos de una aplicación SPA (Single Page Application).
 
 ## **Temas puntuales de la sección**
 
