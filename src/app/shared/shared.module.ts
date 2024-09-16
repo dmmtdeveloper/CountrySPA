@@ -5,6 +5,7 @@ import { CommonModule } from '@angular/common';
 import { HomePageComponent } from './pages/homePage/home-page.component';
 import { AboutPageComponent } from './pages/aboutPage/about-page.component';
 import { SidebarComponent } from './Components/sidebar/sidebar.component';
+import { ContactPageComponent } from './pages/contact/contact-page.component';
 
 
 
@@ -13,6 +14,7 @@ import { SidebarComponent } from './Components/sidebar/sidebar.component';
   declarations: [
     HomePageComponent,
     AboutPageComponent,
+    ContactPageComponent,
     SidebarComponent
   ],
   imports: [
